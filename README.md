@@ -2,7 +2,7 @@
 - 👀 I’m interested in Computer Science and Mathematics
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on my project Calcom
-- 📫 How to reach me prithwis@pycalc.com
+- 📫 Reach me over Discord Prithwis#1021
 
 <!---
 Prithwis-2023/Prithwis-2023 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
