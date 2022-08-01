@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on my project Calcom
 - 📫 Reach me over Discord Prithwis#1021
+- Many repos are private for confidentiality.
 
 <!---
 Prithwis-2023/Prithwis-2023 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
