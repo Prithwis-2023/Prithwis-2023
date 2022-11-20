@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Prithwis-2023
-- 👀 I’m interested in Computer Science and Mathematics
+- 👋 Hi, I’m @Prithwis
+- 👀 I’m interested in Computer Science and Astronomy
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on my project Calcom
 - 📫 Reach me over Discord Prithwis#1021
