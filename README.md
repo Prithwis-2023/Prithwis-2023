@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Prithwis
-- 👀 I’m interested in Computer Science and Astronomy
+- 👋 Hi, I’m Prithwis
 
 <!---
 Prithwis-2023/Prithwis-2023 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
