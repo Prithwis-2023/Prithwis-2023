@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Message in a Bottle](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023EA003042)
 
-- 🌱 I’m currently an assistant researcher at **NASA Jet Propulsion Laboratory**
+- 🌱 I’m currently a assistant researcher at **NASA Jet Propulsion Laboratory**
 
 - 🤝 I’m looking for help with [OpenScientia](https://openscientia.wiki/)
 
