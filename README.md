@@ -29,6 +29,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prithwis-2023&show_icons=true&locale=en&layout=compact" alt="prithwis-2023" /></p>
 
+![profile-night-rainbow](https://github.com/user-attachments/assets/a5833c2a-dac3-4c2a-b2e2-c81f19e43388)
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prithwis-2023&show_icons=true&locale=en" alt="prithwis-2023" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prithwis-2023&" alt="prithwis-2023" /></p>
