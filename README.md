@@ -7,9 +7,9 @@
 
 ![profile-night-rainbow](https://github.com/user-attachments/assets/a5833c2a-dac3-4c2a-b2e2-c81f19e43388)
 
-- 🔭 I’m currently working on [Message in a Bottle](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023EA003042)
+- 🔭 I’m currently working on [BrailleDisplay](https://github.com/Prithwis-2023/BrailleDisplay)
 
-- 🌱 I’m currently a assistant researcher at **NASA Jet Propulsion Laboratory**
+- 🌱 I’m currently an undergraduate researcher at **Sejong University**
 
 - 🤝 I’m looking for help with [OpenScientia](https://openscientia.wiki/)
 
