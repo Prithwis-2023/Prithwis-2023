@@ -5,7 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prithwis-2023" alt="prithwis-2023" /></a> </p>-->
 
-![profile-night-rainbow](https://github.com/user-attachments/assets/a5833c2a-dac3-4c2a-b2e2-c81f19e43388)
+![profile-night-rainbow](https://github.com/user-attachments/assets/a6b9b5cf-6489-4a52-91b1-7e55e73b1de2)
+
 
 - 🔭 I’m currently working on [BrailleDisplay](https://github.com/Prithwis-2023/BrailleDisplay)
 
