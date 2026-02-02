@@ -28,6 +28,3 @@ jobs:
       
           git pull --rebase origin main  # Pull latest changes before pushing
           git push origin main
-
-      - name: GitHub Space Shooter
-        uses: czl9707/gh-space-shooter@v1.0.0
